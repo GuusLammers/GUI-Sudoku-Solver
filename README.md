@@ -10,7 +10,7 @@ This is a GUI Sudoku game. It allows the user to try solving the displayed Sudok
 1- Save all contents of the folder "GUI Sudoku Solver" on your computer in the same folder.<br />
 2- Run "Sudoku Solver GUI.py". The GUI window will display as shown below.<br/>
 
-<p align="center"><img src="Images/GUI.JPG" width="35%" height="35%"></p>
+<p align="center"><img src="Images/GUI.JPG" width="50%" height="50%"></p>
 
 3- Test out the login system by signing up and logging in! Your account will be save when "Exit" is clicked to leave the application.
 
